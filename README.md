@@ -20,7 +20,9 @@ CardFlow 是一款面向摄影、影视拍摄及现场数据管理的 Windows �
 2. 双击运行安装程序。
 3. 根据安装向导选择安装位置及安装范围。
 4. 安装完成后，可以通过桌面快捷方式或开始菜单启动 CardFlow。
-
+通过网盘分享的文件：CardFlow
+链接: https://pan.baidu.com/s/1q3G6SiFAW9XNztSe0GDbow?pwd=phtc 提取码: phtc 
+--来自百度网盘超级会员v8的分享
 ### Windows 安全提示
 
 当前版本暂未使用商业代码签名证书，Windows 可能显示 SmartScreen 提示。
